@@ -19,3 +19,5 @@ O objetivo é transformar esses conteúdos em um **guia prático para consistên
 
 ## 🔗 Acesso ao Projeto
 [NotebookLM – Psicologia Aplicada ao Trading](https://notebooklm.google.com/notebook/672403d0-f844-4278-8fbe-8f10d0e6fd86)
+
+📌 **Observação**: Este projeto é um **desafio prático do Bootcamp GenAI & Dados – Bradesco**, com foco no uso de **IA Generativa** aplicada ao aprendizado ativo através do **NotebookLM**.
